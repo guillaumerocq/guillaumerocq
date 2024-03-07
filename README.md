@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🚧 Section under construction, please come back in a while 🚧
+<br />
+
+I will quickly update this page 💋
+
 <!--
 **guillaumerocq/guillaumerocq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
