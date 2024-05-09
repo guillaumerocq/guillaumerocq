@@ -11,7 +11,7 @@ Feel free to reach out if you have any interesting matter to share or any questi
 * ***[Learning eBPF - Liz Rice - O'Reilly Media](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)***
   * ☝️ I intend to deep dive into this subject since I find numerous concrete application (i.e. )
     
-* ***[Site Reliability Engineering - Betsy Beyer, Liz Porter, Chris Jones, Jennifer Petoff, Niall Richard Murphy - O'Reilly Media](https://www.oreilly.com/library/view/site-reliability-engineering/9781098125103/)***
+* ***[Site Reliability Engineering - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy - O'Reilly Media](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/)***
   * In fact, this work is such an important foundation of many standards we use on a day-to-day basis, that it appears important to refresh up some concepts!
 
 ## Skydiving 🪂
