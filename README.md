@@ -9,7 +9,7 @@ Feel free to reach out if you have any interesting matter to share or any questi
 
 ## Current readings
 * ***[Learning eBPF - Liz Rice - O'Reilly Media](https://www.oreilly.com/library/view/learning-ebpf/9781098135119/)***
-  * ☝️ I intend to deep dive into this subject since I find numerous concrete application (i.e. )
+  * ☝️ I intend to deep dive into this subject since I find numerous concrete application (i.e. from a cluster or host perspective, for observability purpose, ...)
     
 * ***[Site Reliability Engineering - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy - O'Reilly Media](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/)***
   * In fact, this work is such an important foundation of many standards we use on a day-to-day basis, that it appears important to refresh up some concepts!
